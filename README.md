@@ -58,7 +58,6 @@ Wednesday, September 17 2025
 * 02:30 PM – 04:00 PM o [Problem](Day3/) | [Solution](Day3/): Tiling, stacking and difference imaging; E Kado-Fong
 * 04:00 PM - 04:30 PM o [Professional Development](Day3/): People-Powered Research and a Path Beyond Academia; L Trouille 
 * 04:30 PM – 05:00 PM o Hack Pitch
-
 * 06:00 PM - ??:??  Adler Evenings (Session Dinner) 
 
 ## Day 4 — Photometry of Extended Sources 
