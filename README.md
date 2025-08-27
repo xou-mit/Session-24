@@ -1,5 +1,6 @@
 # Session 24
-## The Twenty-Fourth session of the LSST Discovery Alliance Data Science Fellowship Program focuses on Image Processing for Wide Field Surveys
+
+The Twenty-Fourth session of the LSST Discovery Alliance Data Science Fellowship Program focuses on Image Processing for Wide Field Surveys
 
 Session 24 was held from September 15-19, 2025 at Adler Planetarium in Chicago, IL. Lectures were delivered by:
 
