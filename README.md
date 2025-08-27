@@ -16,7 +16,7 @@ Monday, September 15 2025
 * 10:30 AM – 11:00 AM o BREAK
 * 11:00 AM – 12:00 PM o [Lecture](): Introduction to Wide Field Imaging and CCDs; A Drlica-Wagner  
 * 12:00 PM – 01:30 PM o LUNCH
-* 01:30 PM – 03:00 PM o [Problem]()[Solution](): Introduction to CCDs; A Drlica-Wagner  
+* 01:30 PM – 03:00 PM o [Problem]() | [Solution](): Introduction to CCDs; A Drlica-Wagner  
 * 03:00 PM – 04:00 PM o [Lecture](): Instrument Signature Removal; C Slater 
 * 04:00 PM – 04:30 PM o Break
 * 04:30 PM – 06:00 PM o [Problem]() | [Solution](): Instrument Signature Removal; C Slater 
@@ -38,7 +38,7 @@ Tuesday, September 16 2025
 * 01:00 PM - 02:30 PM o [Problem]() | [Solution](): Introduction to Astrometry; A Drlica-Wagner 
 * 02:30 PM - 03:00 PM o BREAK 
 * 03:00 PM - 04:00 PM o [Lecture](): Point Source Photometry; C Slater
-* 04:00 PM - 05:30 PM o [Problem]() [Solution](): Point Source Photometry; C Slater
+* 04:00 PM - 05:30 PM o [Problem]() | [Solution](): Point Source Photometry; C Slater
 
 
 ## Day 3 — Image Coaddition and Photometry of Extended Sources 
