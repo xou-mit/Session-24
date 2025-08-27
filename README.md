@@ -11,7 +11,7 @@
 Monday, September 15 2025
 
 * 09:00 AM – 09:30 AM o Welcome to Session 24, Logistics, Icebreakers
-* 09:30 AM – 10:30 AM o [Pedagogy I: Curriculum Design and Learning Outcomes]; B Scott 
+* 09:30 AM – 10:30 AM o [Pedagogy I]: Curriculum Design and Learning Objectives; B Scott 
 * 10:30 AM – 11:00 AM o BREAK
 * 11:00 AM – 12:00 PM o [Lecture]() Introduction to Wide Field Imaging and CCDs]; A Drlica-Wagner  
 * 12:00 PM – 01:30 PM o LUNCH
@@ -30,7 +30,7 @@ Monday, September 15 2025
 -- 
 Tuesday, September 16 2025 
 
-* 09:00 AM - 10:00 AM o [Pedagogy II: Teaching Practice I]; B Scott 
+* 09:00 AM - 10:00 AM o [Teaching Practice I]: Writing Learning Objectives; B Scott 
 * 10:00 AM - 10:30 AM o BREAK
 * 10:30 AM - 11:30 AM o [Lecture]() Introduction to Astrometry; A Drlica-Wagner 
 * 11:30 AM - 01:00 PM o LUNCH
@@ -49,9 +49,9 @@ Tuesday, September 16 2025
 --
 Wednesday, September 17 2025
 
-* 09:00 AM – 10:00 AM o [Pedagogy III: Scaffolding and Lesson Design]; B Scott 
+* 09:00 AM – 10:00 AM o [Pedagogy II]: Educational Theory and Scaffolding; B Scott 
 * 10:00 AM – 10:30 AM o BREAK
-* 10:30 AM – 12:00 PM o [Teaching Practice] Guided Discovery; B Scott 
+* 10:30 AM – 12:00 PM o [Teaching Practice II] Guided Discovery; B Scott 
 * 12:00 PM – 01:30 PM o LUNCH
 * 01:30 PM – 02:30 PM o [Lecture]() Tiling, stacking and difference imaging E Kado-Fong
 * 02:30 PM – 04:00 PM o [Problem]() [Solution]() Tiling, stacking and difference imaging E Kado-Fong
@@ -83,7 +83,7 @@ Thursday, September 18 2025
 -- 
 Friday, September 19 2025 
 
-* 9:00 AM - 10:00 AM o [Pedagogy V: Assessment] ; B Scott
+* 9:00 AM - 10:00 AM o [Pedagogy III/Teaching Practice III]: Rubrics and Assessment; B Scott
 * 10:00 AM – 10:30 AM o BREAK
 * 10:30 AM – 11:30 AM o Hack Session 
 * 11:30 AM – 01:00 PM o LUNCH
