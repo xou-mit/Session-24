@@ -10,15 +10,15 @@
 -- 
 Monday, September 15 2025
 
-* 09:00 AM – 09:30 AM o Welcome to Session 18, Logistics, Icebreakers
+* 09:00 AM – 09:30 AM o Welcome to Session 24, Logistics, Icebreakers
 * 09:30 AM – 10:30 AM o [Pedagogy I: Curriculum Design and Learning Outcomes]; B Scott 
-* 10:30 AM – 11:00 AM o Break
+* 10:30 AM – 11:00 AM o BREAK
 * 11:00 AM – 12:00 PM o [Lecture]() Introduction to Wide Field Imaging and CCDs]; A Drlica-Wagner  
 * 12:00 PM – 01:30 PM o LUNCH
 * 01:30 PM – 02:30 PM o [Problem]() Introduction to CCDs; A Drlica-Wagner  
 * 02:30 PM – 03:30 PM o [Lecutre]() Instrument Signature Removal; C Slater 
 * 03:30 PM – 04:00 PM o Break
-* 04:00 PM – 05:00 PM o [Problem]() | [Solution](): Instrument Signature Removal; C Slater 
+* 04:00 PM – 05:30 PM o [Problem]() | [Solution](): Instrument Signature Removal; C Slater 
 
 ## Day 2 – Astrometry and Point Source Photometry 
 
@@ -31,13 +31,13 @@ Monday, September 15 2025
 Tuesday, September 16 2025 
 
 * 09:00 AM - 10:00 AM o [Pedagogy II: Teaching Practice I]; B Scott 
-* 10:00 AM - 10:30 AM o Break
+* 10:00 AM - 10:30 AM o BREAK
 * 10:30 AM - 11:30 AM o [Lecture]() Introduction to Astrometry; A Drlica-Wagner 
 * 11:30 AM - 01:00 PM o LUNCH
 * 01:00 PM - 02:30 PM o [Problem]() | [Solution](): Introduction to Astrometry; A Drlica-Wagner 
 * 02:30 PM - 03:00 PM o BREAK 
 * 03:00 PM - 04:00 PM o [Lecture]() Point Source Photometry; C Slater
-* 04:00 PM - 05:00 PM o [Problem]() [Solution]() Point Source Photometry; C Slater
+* 04:00 PM - 05:30 PM o [Problem]() [Solution]() Point Source Photometry; C Slater
 
 
 ## Day 3 — Image Coaddition and Photometry of Extended Sources 
