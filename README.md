@@ -1,6 +1,14 @@
 # Session 24
 ## The Twenty-Fourth session of the LSST Discovery Alliance Data Science Fellowship Program focuses on Image Processing for Wide Field Surveys
 
+Session 24 was held from September 15-19 at Adler Planetarium in Chicago, IL. Lectures were delivered by:
+
+- Dr. Alex Drlica-Wagner, University of Chicago & Fermi National Accelerator Laboratory 
+- Dr. Colin Slater, University of Washington
+- Dr. Erin Kado-Fong, Yale University
+- Dr. Laura Trouille, Adler Planetarium
+- Dr. Bryan Scott, CIERA/Northwestern University 
+
 ## Day 1 – Introduction to Imaging and Instrument Signal Removal 
 
 "I have looked further into space than ever human being did before me.”
