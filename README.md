@@ -12,14 +12,14 @@ Monday, September 15 2025
 
 * 09:00 AM – 09:15 AM o Welcome to Session 24, Logistics, Icebreakers
 * 09:15 AM - 09:30 AM o Overview of Imaging and Wide Field Surveys; B Scott
-* 09:30 AM – 10:30 AM o [Pedagogy I](): Curriculum Design and Learning Objectives; B Scott 
+* 09:30 AM – 10:30 AM o [Pedagogy I](Day1/): Curriculum Design and Learning Objectives; B Scott 
 * 10:30 AM – 11:00 AM o BREAK
-* 11:00 AM – 12:00 PM o [Lecture](): Introduction to Wide Field Imaging and CCDs; A Drlica-Wagner  
+* 11:00 AM – 12:00 PM o [Lecture](Day1/): Introduction to Wide Field Imaging and CCDs; A Drlica-Wagner  
 * 12:00 PM – 01:30 PM o LUNCH
-* 01:30 PM – 03:00 PM o [Problem]() | [Solution](): Introduction to CCDs; A Drlica-Wagner  
-* 03:00 PM – 04:00 PM o [Lecture](): Instrument Signature Removal; C Slater 
+* 01:30 PM – 03:00 PM o [Problem](Day1/) | [Solution](Day1/): Introduction to CCDs; A Drlica-Wagner  
+* 03:00 PM – 04:00 PM o [Lecture](Day1/): Instrument Signature Removal; C Slater 
 * 04:00 PM – 04:30 PM o Break
-* 04:30 PM – 06:00 PM o [Problem]() | [Solution](): Instrument Signature Removal; C Slater 
+* 04:30 PM – 06:00 PM o [Problem](Day1/) | [Solution](Day1/): Instrument Signature Removal; C Slater 
 
 ## Day 2 – Astrometry and Point Source Photometry 
 
@@ -33,12 +33,12 @@ Tuesday, September 16 2025
 
 * 09:00 AM - 10:00 AM o [Teaching Practice I](): Writing Learning Objectives; B Scott 
 * 10:00 AM - 10:30 AM o BREAK
-* 10:30 AM - 11:30 AM o [Lecture](): Introduction to Astrometry; A Drlica-Wagner 
+* 10:30 AM - 11:30 AM o [Lecture](Day2/): Introduction to Astrometry; A Drlica-Wagner 
 * 11:30 AM - 01:00 PM o LUNCH
-* 01:00 PM - 02:30 PM o [Problem]() | [Solution](): Introduction to Astrometry; A Drlica-Wagner 
+* 01:00 PM - 02:30 PM o [Problem](Day2/) | [Solution](): Introduction to Astrometry; A Drlica-Wagner 
 * 02:30 PM - 03:00 PM o BREAK 
-* 03:00 PM - 04:00 PM o [Lecture](): Point Source Photometry; C Slater
-* 04:00 PM - 05:30 PM o [Problem]() | [Solution](): Point Source Photometry; C Slater
+* 03:00 PM - 04:00 PM o [Lecture](Day2/): Point Source Photometry; C Slater
+* 04:00 PM - 05:30 PM o [Problem](Day2/) | [Solution](Day2/): Point Source Photometry; C Slater
 
 
 ## Day 3 — Image Stacking and Differencing 
@@ -50,13 +50,13 @@ Tuesday, September 16 2025
 --
 Wednesday, September 17 2025
 
-* 09:00 AM – 10:00 AM o [Pedagogy II](): Educational Theory and Scaffolding; B Scott 
+* 09:00 AM – 10:00 AM o [Pedagogy II](Day3/): Educational Theory and Scaffolding; B Scott 
 * 10:00 AM – 10:30 AM o BREAK
-* 10:30 AM – 12:00 PM o [Teaching Practice II](): Guided Discovery; B Scott 
+* 10:30 AM – 12:00 PM o [Teaching Practice II](Day3/): Guided Discovery; B Scott 
 * 12:00 PM – 01:30 PM o LUNCH
-* 01:30 PM – 02:30 PM o [Lecture](): Tiling, stacking and difference imaging E Kado-Fong
-* 02:30 PM – 04:00 PM o [Problem]() | [Solution](): Tiling, stacking and difference imaging E Kado-Fong
-* 04:00 PM - 04:30 PM o PD Talk by Laura
+* 01:30 PM – 02:30 PM o [Lecture](Day3/): Tiling, stacking and difference imaging; E Kado-Fong
+* 02:30 PM – 04:00 PM o [Problem](Day3/) | [Solution](Day3/): Tiling, stacking and difference imaging; E Kado-Fong
+* 04:00 PM - 04:30 PM o [Professional Development](Day3/): People-Powered Research and a Path Beyond Academia; L Trouille 
 * 04:30 PM – 05:00 PM o Hack Pitch
 
 * 06:00 PM - ??:??  Adler Evenings (Session Dinner) 
@@ -70,9 +70,9 @@ Wednesday, September 17 2025
 -- 
 Thursday, September 18 2025
 
-* 09:00 AM – 10:00 AM o [Lecture](): Extended source photometry; E Kado-Fong
+* 09:00 AM – 10:00 AM o [Lecture](Day4/): Extended source photometry; E Kado-Fong
 * 10:00 AM – 10:30 AM o Break
-* 10:30 AM – 12:00 AM o [Problem]() | [Solution](): Extended source photometry; E Kado-Fong
+* 10:30 AM – 12:00 AM o [Problem](Day4/) | [Solution](Day4/): Extended source photometry; E Kado-Fong
 * 12:00 PM – ??:?? PM o BREAK
 
 ## Day 5 — Teaching Development and Hack Session
@@ -84,7 +84,7 @@ Thursday, September 18 2025
 -- 
 Friday, September 19 2025 
 
-* 9:00 AM - 10:00 AM o [Pedagogy III/Teaching Practice III](): Rubrics and Assessment; B Scott
+* 9:00 AM - 10:00 AM o [Pedagogy III/Teaching Practice III](Day5/): Rubrics and Assessment; B Scott
 * 10:00 AM – 10:30 AM o BREAK
 * 10:30 AM – 11:30 AM o Hack Session 
 * 11:30 AM – 01:00 PM o LUNCH
