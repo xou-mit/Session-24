@@ -41,7 +41,7 @@ Tuesday, September 16 2025
 * 04:00 PM - 05:30 PM o [Problem]() | [Solution](): Point Source Photometry; C Slater
 
 
-## Day 3 — Image Coaddition and Photometry of Extended Sources 
+## Day 3 — Image Stacking and Differencing 
 
 "[She was] thoroughly acquainted with the periods of the full moon when it is subject to eclipse, and, knowing beforehand the time when the moon was due to be overtaken by the earth’s shadow, imposed upon the women, and made them all believe that she was drawing down the moon.”
 
