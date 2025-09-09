@@ -28,7 +28,8 @@ Monday, September 15 2025
 * 01:30 PM – 03:00 PM o [Problem](Day1/) | [Solution](Day1/): Introduction to CCDs; A Drlica-Wagner  
 * 03:00 PM – 04:00 PM o [Lecture](Day1/): Instrument Signature Removal; C Slater 
 * 04:00 PM – 04:30 PM o Break
-* 04:30 PM – 06:00 PM o [Problem](Day1/) | [Solution](Day1/): Instrument Signature Removal; C Slater 
+* 04:30 PM – 06:00 PM o [Problem](Day1/) | [Solution](Day1/): Instrument Signature Removal; C Slater
+* 06:30 PM - 08:30 PM o Session Dinner at AO Hawaiian Hideout [Directions from Adler](https://maps.app.goo.gl/EQ9wtBvwXuBqyvfh9) 
 
 ## Day 2 – Astrometry and Point Source Photometry 
 
@@ -67,7 +68,6 @@ Wednesday, September 17 2025
 * 02:30 PM – 04:00 PM o [Problem](Day3/) | [Solution](Day3/): Tiling, stacking and difference imaging; E Kado-Fong
 * 04:00 PM - 04:30 PM o [Professional Development](Day3/): People-Powered Research and a Path Beyond Academia; L Trouille 
 * 04:30 PM – 05:00 PM o Hack Pitch
-* 06:00 PM - ??:??  Adler Evenings (Session Dinner) 
 
 ## Day 4 — Photometry of Extended Sources 
 
