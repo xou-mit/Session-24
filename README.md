@@ -80,7 +80,7 @@ Thursday, September 18 2025
 
 * 09:00 AM – 10:00 AM o [Lecture](Day4/): Extended source photometry; E Kado-Fong
 * 10:00 AM – 10:30 AM o Break
-* 10:30 AM – 12:00 AM o [Problem](Day4/) | [Solution](Day4/): Extended source photometry; E Kado-Fong
+* 10:30 AM – 12:00 PM o [Problem](Day4/) | [Solution](Day4/): Extended source photometry; E Kado-Fong
 * 12:00 PM – ??:?? PM o BREAK
 
 ## Day 5 — Teaching Development and Hack Session
