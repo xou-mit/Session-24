@@ -28,7 +28,7 @@ Monday, September 15 2025
 * 01:30 PM – 03:00 PM o [Problem](Day1/FunWithCCDs.ipynb) | [Solution](Day1/): Introduction to CCDs; A Drlica-Wagner  
 * 03:00 PM – 04:00 PM o [Lecture](Day1/): Instrument Signature Removal; C Slater 
 * 04:00 PM – 04:30 PM o Break
-* 04:30 PM – 06:00 PM o [Problem](Day1/) | [Solution](Day1/): Instrument Signature Removal; C Slater
+* 04:30 PM – 06:00 PM o [Problem](Day1/ISR_flats.ipynb) | [Solution](Day1/): Instrument Signature Removal; C Slater
 * 06:30 PM - 08:30 PM o Session Dinner at AO Hawaiian Hideout [Directions from Adler](https://maps.app.goo.gl/EQ9wtBvwXuBqyvfh9) 
 
 ## Day 2 – Astrometry and Point Source Photometry 
