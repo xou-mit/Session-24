@@ -25,7 +25,7 @@ Monday, September 15 2025
 * 10:30 AM – 11:00 AM o BREAK
 * 11:00 AM – 12:00 PM o [Lecture](Day1/): Introduction to CCDs; A Drlica-Wagner  
 * 12:00 PM – 01:30 PM o LUNCH
-* 01:30 PM – 03:00 PM o [Problem](Day1/) | [Solution](Day1/): Introduction to CCDs; A Drlica-Wagner  
+* 01:30 PM – 03:00 PM o [Problem](Day1/FunWithCCDs.ipynb) | [Solution](Day1/): Introduction to CCDs; A Drlica-Wagner  
 * 03:00 PM – 04:00 PM o [Lecture](Day1/): Instrument Signature Removal; C Slater 
 * 04:00 PM – 04:30 PM o Break
 * 04:30 PM – 06:00 PM o [Problem](Day1/) | [Solution](Day1/): Instrument Signature Removal; C Slater
