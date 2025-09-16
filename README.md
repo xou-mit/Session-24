@@ -26,7 +26,7 @@ Monday, September 15 2025
 * 11:00 AM – 12:00 PM o [Lecture](Day1/Detectors-DSFP-2025-v1.pdf): Introduction to CCDs; A Drlica-Wagner  
 * 12:00 PM – 01:30 PM o LUNCH
 * 01:30 PM – 03:00 PM o [Problem](Day1/FunWithCCDs.ipynb) | [Solution](Day1/): Introduction to CCDs; A Drlica-Wagner  
-* 03:00 PM – 04:00 PM o [Lecture](Day1/): Instrument Signature Removal; C Slater 
+* 03:00 PM – 04:00 PM o [Lecture](Day1/initial_steps_ISR.pdf): Instrument Signature Removal; C Slater 
 * 04:00 PM – 04:30 PM o Break
 * 04:30 PM – 06:00 PM o [Problem](Day1/ISR_flats.ipynb) | [Solution](Day1/): Instrument Signature Removal; C Slater
 * 06:30 PM - 08:30 PM o Session Dinner at AO Hawaiian Hideout [Directions from Adler](https://maps.app.goo.gl/EQ9wtBvwXuBqyvfh9) 
@@ -43,7 +43,7 @@ Tuesday, September 16 2025
 
 * 09:00 AM - 10:00 AM o [Teaching Practice I](): Writing Learning Objectives; B Scott 
 * 10:00 AM - 10:30 AM o BREAK
-* 10:30 AM - 11:30 AM o [Lecture](Day2/): Point Source Photometry; C Slater
+* 10:30 AM - 11:30 AM o [Lecture](Day2/PSF_photometry.pdf): Point Source Photometry; C Slater
 * 11:30 AM - 01:00 PM o LUNCH
 * 01:00 PM - 02:30 PM o [Problem](Day2/PSF_photometry.ipynb) | [Solution](): Point Source Photometry; C Slater
 * 02:30 PM - 03:00 PM o BREAK 
