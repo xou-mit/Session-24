@@ -45,7 +45,7 @@ Tuesday, September 16 2025
 * 10:00 AM - 10:30 AM o BREAK
 * 10:30 AM - 11:30 AM o [Lecture](Day2/): Point Source Photometry; C Slater
 * 11:30 AM - 01:00 PM o LUNCH
-* 01:00 PM - 02:30 PM o [Problem](Day2/) | [Solution](): Point Source Photometry; C Slater
+* 01:00 PM - 02:30 PM o [Problem](Day2/PSF_photometry.ipynb) | [Solution](): Point Source Photometry; C Slater
 * 02:30 PM - 03:00 PM o BREAK 
 * 03:00 PM - 04:00 PM o [Lecture](Day2/): Introduction to Astrometry; A Drlica-Wagner
 * 04:00 PM - 05:30 PM o [Problem](Day2/) | [Solution](Day2/): Introduction to Astrometry; A Drlica-Wagner  
