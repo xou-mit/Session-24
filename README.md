@@ -28,7 +28,7 @@ Monday, September 15 2025
 * 01:30 PM – 03:00 PM o [Problem](Day1/FunWithCCDs.ipynb) | [Solution](Day1/): Introduction to CCDs; A Drlica-Wagner  
 * 03:00 PM – 04:00 PM o [Lecture](Day1/initial_steps_ISR.pdf): Instrument Signature Removal; C Slater 
 * 04:00 PM – 04:30 PM o Break
-* 04:30 PM – 06:00 PM o [Problem](Day1/ISR_flats.ipynb) | [Solution](Day1/): Instrument Signature Removal; C Slater
+* 04:30 PM – 06:00 PM o [Problem](Day1/ISR_flats.ipynb) | [Solution](Day1/ISR_flats_answers.ipynb): Instrument Signature Removal; C Slater
 * 06:30 PM - 08:30 PM o Session Dinner at AO Hawaiian Hideout [Directions from Adler](https://maps.app.goo.gl/EQ9wtBvwXuBqyvfh9) 
 
 ## Day 2 – Astrometry and Point Source Photometry 
@@ -45,7 +45,7 @@ Tuesday, September 16 2025
 * 10:00 AM - 10:30 AM o BREAK
 * 10:30 AM - 11:30 AM o [Lecture](Day2/PSF_photometry.pdf): Point Source Photometry; C Slater
 * 11:30 AM - 01:00 PM o LUNCH
-* 01:00 PM - 02:30 PM o [Problem](Day2/PSF_photometry.ipynb) | [Solution](): Point Source Photometry; C Slater
+* 01:00 PM - 02:30 PM o [Problem](Day2/PSF_photometry.ipynb) | [Solution](Day2/PSF_photometry_answers.ipynb): Point Source Photometry; C Slater
 * 02:30 PM - 03:00 PM o BREAK 
 * 03:00 PM - 04:00 PM o [Lecture](Day2/Astrometry-DSFP-2025-v1.pdf): Introduction to Astrometry; A Drlica-Wagner
 * 04:00 PM - 05:30 PM o [Problem](Day2/FunWithAstrometry.ipynb) | [Solution](Day2/): Introduction to Astrometry; A Drlica-Wagner  
