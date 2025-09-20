@@ -25,7 +25,7 @@ Monday, September 15 2025
 * 10:30 AM – 11:00 AM o BREAK
 * 11:00 AM – 12:00 PM o [Lecture](Day1/Detectors-DSFP-2025-v1.pdf): Introduction to CCDs; A Drlica-Wagner  
 * 12:00 PM – 01:30 PM o LUNCH
-* 01:30 PM – 03:00 PM o [Problem](Day1/FunWithCCDs.ipynb) | [Solution](Day1/): Introduction to CCDs; A Drlica-Wagner  
+* 01:30 PM – 03:00 PM o [Problem](Day1/FunWithCCDs.ipynb) | [Solution](Day1/FunWithCCDs-solutions.ipynb): Introduction to CCDs; A Drlica-Wagner  
 * 03:00 PM – 04:00 PM o [Lecture](Day1/initial_steps_ISR.pdf): Instrument Signature Removal; C Slater 
 * 04:00 PM – 04:30 PM o Break
 * 04:30 PM – 06:00 PM o [Problem](Day1/ISR_flats.ipynb) | [Solution](Day1/ISR_flats_answers.ipynb): Instrument Signature Removal; C Slater
@@ -48,7 +48,7 @@ Tuesday, September 16 2025
 * 01:00 PM - 02:30 PM o [Problem](Day2/PSF_photometry.ipynb) | [Solution](Day2/PSF_photometry_answers.ipynb): Point Source Photometry; C Slater
 * 02:30 PM - 03:00 PM o BREAK 
 * 03:00 PM - 04:00 PM o [Lecture](Day2/Astrometry-DSFP-2025-v1.pdf): Introduction to Astrometry; A Drlica-Wagner
-* 04:00 PM - 05:30 PM o [Problem](Day2/FunWithAstrometry.ipynb) | [Solution](Day2/): Introduction to Astrometry; A Drlica-Wagner  
+* 04:00 PM - 05:30 PM o [Problem](Day2/FunWithAstrometry.ipynb) | [Solution](Day2/FunWithAstrometry-solutions.ipynb): Introduction to Astrometry; A Drlica-Wagner  
 
 
 ## Day 3 — Image Stacking and Differencing 
