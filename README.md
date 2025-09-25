@@ -66,7 +66,7 @@ Wednesday, September 17 2025
 * 12:00 PM – 01:30 PM o LUNCH
 * 01:30 PM – 02:30 PM o [Lecture](Day3/): Tiling, stacking and difference imaging; E Kado-Fong
 * 02:30 PM – 04:00 PM o [Problem](Day3/) | [Solution](Day3/): Tiling, stacking and difference imaging; E Kado-Fong
-* 04:00 PM - 04:30 PM o [Professional Development](Day3/): People-Powered Research and a Path Beyond Academia; L Trouille 
+* 04:00 PM - 04:30 PM o [Professional Development](https://urldefense.com/v3/__https://docs.google.com/presentation/d/1wB6bdfCpwo4lnBvbHZ1qa8QViiwsFZjs_d1Ko8OL-28/edit?usp=sharing__;!!Dq0X2DkFhyF93HkjWTBQKhk!S0NZYYytd-gMZwyGVrB-kfbylpMksSLKEmBwC00s5puy0n979oCneHlhTwTJtPtEBJ7qpXeHt1VZPDfK7E3c3fTkrVJpwQ$): People-Powered Research and a Path Beyond Academia; L Trouille 
 * 04:30 PM – 05:00 PM o Hack Pitch
 
 ## Day 4 — Photometry of Extended Sources 
